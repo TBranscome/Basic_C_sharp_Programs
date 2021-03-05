@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\bin\Debug\DailyReportTheTechAcademy.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\bin\Debug\DailyReportTheTechAcademy.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\bin\Debug\DailyReportTheTechAcademy.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\obj\Debug\DailyReportTheTechAcademy.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\obj\Debug\DailyReportTheTechAcademy.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\obj\Debug\DailyReportTheTechAcademy.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\DailyReportTheTechAcademy\obj\Debug\DailyReportTheTechAcademy.csprojAssemblyReference.cache
