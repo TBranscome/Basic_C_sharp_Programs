@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\bin\Debug\StringFunctions.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\bin\Debug\StringFunctions.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\bin\Debug\StringFunctions.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\obj\Debug\StringFunctions.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\obj\Debug\StringFunctions.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\obj\Debug\StringFunctions.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\StringFunctions\obj\Debug\StringFunctions.pdb
