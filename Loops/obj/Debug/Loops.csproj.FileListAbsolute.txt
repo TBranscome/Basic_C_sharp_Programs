@@ -1,0 +1,6 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\bin\Debug\Loops.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\bin\Debug\Loops.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\bin\Debug\Loops.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\obj\Debug\Loops.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\Loops\obj\Debug\Loops.pdb
