@@ -33,7 +33,7 @@ namespace ShippingQuoteProgram
                 {
                     int dimNum = height * width * length * weight;//defining variable to use math for finding quote
                     int quote = dimNum / 100;//quote using variables from previous math steps
-                    Console.WriteLine("Your estimated total for shipping this package is: $" + quote + .00);//printing variable quote as doolar amount
+                    Console.WriteLine("Your estimated total for shipping this package is: $" + quote + ".00");//printing variable quote as doolar amount
                 }
             }
             else
