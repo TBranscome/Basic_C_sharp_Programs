@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\bin\Debug\Iteration.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\bin\Debug\Iteration.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\bin\Debug\Iteration.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\obj\Debug\Iteration.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\obj\Debug\Iteration.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\obj\Debug\Iteration.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\Iteration\obj\Debug\Iteration.pdb
