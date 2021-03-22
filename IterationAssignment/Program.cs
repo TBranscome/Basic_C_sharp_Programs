@@ -1,14 +1,12 @@
 ﻿using System;
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace IterationAssignment
 {
     class Program
     {
-        static void Main(string[] args)
+        static void Main()
         {
 
 
@@ -63,38 +61,29 @@ namespace IterationAssignment
             //
             //
 
+            // 1.A list of strings that has at least two identical strings in the list. Ask the user to select text to search for in the list.
             List<string> listFruit = new List<string>() { "apple", "banana", "grape", "apple", "strawberry", "grape" };
 
             Console.WriteLine("Name a type of fruit to find its index, or indices.");
             string inputFruit = Console.ReadLine();
 
-
+            // 2.Create a loop that iterates through the loop and then displays the indices of the array that contain matching text on the screen.
+            bool exists = false;
             for (int i = 0; i < listFruit.Count; i++)
             {
-                if (listFruit[i] != inputFruit)
-                {
-                    Console.WriteLine("Does not exist.");
-                    continue;
-                    
-                }
                 if (listFruit[i] == inputFruit)
-                    {
-                        Console.WriteLine(i);
-                        continue;
-                    }
+                {
+                    Console.WriteLine(i);
+                    exists = true;
+                }
+                // 3.Add code to the loop to check if the user put in text that isn't on the list and, if they did, tells the user their input is not on the list.
+                if (exists == false && i == listFruit.Count-1)
+                {
+                    Console.WriteLine("Does not exist");
+                }
+
             }
-
-
-
-
-
-
-
-
-
-
-
-
+            // 4.Save and execute your code.
             Console.ReadLine();
 
         }
