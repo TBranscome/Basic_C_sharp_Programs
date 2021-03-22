@@ -69,8 +69,21 @@ namespace IterationAssignment
             string inputFruit = Console.ReadLine();
 
 
-            
-            
+            for (int i = 0; i < listFruit.Count; i++)
+            {
+                if (listFruit[i] != inputFruit)
+                {
+                    Console.WriteLine("Does not exist.");
+                    continue;
+                    
+                }
+                if (listFruit[i] == inputFruit)
+                    {
+                        Console.WriteLine(i);
+                        continue;
+                    }
+            }
+
 
 
 
