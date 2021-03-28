@@ -11,9 +11,21 @@ namespace CallingMethodsSubmission
         static void Main(string[] args)
         {
             MyMathClass MathObject = new MyMathClass();
-            Console.WriteLine(MathObject.Area());
-            Console.WriteLine(MyMathClass.OnePlus());
-            Console.WriteLine(MyMathClass.MinusOne());
+            Console.WriteLine("Input a number");
+            int num1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Input a second number");
+            int num2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(MathObject.Area(num1, num2));
+            //
+
+            Console.WriteLine("Input a number");
+            int numPlus = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(MyMathClass.Plus(numPlus));
+            //
+
+            Console.WriteLine("Input a number");
+            int numMinus = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine(MyMathClass.Minus(numMinus));
             Console.ReadLine();
             
 

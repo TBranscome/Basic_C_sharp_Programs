@@ -8,34 +8,25 @@ namespace CallingMethodsSubmission
 {
     public class MyMathClass
     {
-        public int Area()
+        public int Area(int num1, int num2)
         {
-            Console.WriteLine("Input a number");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            Console.WriteLine("Input a second number");
-            int num2 = Convert.ToInt32(Console.ReadLine());
             int b = num1;
             int h = num2;
-            Console.WriteLine($"If your numbers were the base and height of a square, the area would be:");
+            Console.WriteLine("If your numbers were the base and height of a square, the area would be:");
             return b * h;
 
         }
-        public static int OnePlus()
+        public static int Plus(int numPlus)
         {
-            Console.WriteLine("Input a number");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            
-            Console.WriteLine($"Your numbers plus one are:");
-            return num1+1;
+            int numUsed = 7;
+            Console.WriteLine("Your number plus 7 is:");
+            return numPlus + numUsed;
         }
-        public static int MinusOne()
+        public static int Minus(int numMinus)
         {
-            Console.WriteLine("Input a number");
-            int num1 = Convert.ToInt32(Console.ReadLine());
-            
-            Console.WriteLine($"Your numbers minus one are:");
-            return num1-1;
-            
+            int numUsed = 5;
+            Console.WriteLine("Your number minus five is:");
+            return numMinus - numUsed;
         }
     }
 }
