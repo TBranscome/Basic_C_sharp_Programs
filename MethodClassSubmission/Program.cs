@@ -11,10 +11,9 @@ namespace MethodClassSubmission
         static void Main(string[] args)
         {
             MathClass mathClass = new MathClass();
-            int num1 = 78;
-            int num2 = 30;
+            
 
-            MathClass.MathOp(num1, num2); 
+            MathClass.MathOp(num1: 30, num2: 45); 
 
             Console.WriteLine();
 
