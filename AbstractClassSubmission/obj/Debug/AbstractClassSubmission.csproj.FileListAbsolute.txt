@@ -1,0 +1,6 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\bin\Debug\AbstractClassSubmission.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\AbstractClassSubmission\obj\Debug\AbstractClassSubmission.pdb
