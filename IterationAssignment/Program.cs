@@ -36,7 +36,7 @@ namespace IterationAssignment
             // 2. Fix the infinite loop so that                                                  
             //    it will execute properly.
             if (greeting[3] == ("How are you, " + userInput + "!"))
-                //Changed while to if
+            //Changed while to if
             {
                 Console.WriteLine("Great!");
             }
@@ -58,8 +58,8 @@ namespace IterationAssignment
 
             Console.WriteLine();//line break
 
-             //======== PART FOUR =========
-            
+            //======== PART FOUR =========
+
             // 1. A list of strings where each item in the list is unique.
             List<string> listColors = new List<string>() { "red", "blue", "yellow" };
             // 2. Ask the user to input text to search for in the list
@@ -95,7 +95,7 @@ namespace IterationAssignment
 
             // 1.A list of strings that has at least two identical strings in the list.
             // Ask the user to select text to search for in the list.
-            List<string> listFruit = new List<string>() { "apple", "banana", "grape", "apple", 
+            List<string> listFruit = new List<string>() { "apple", "banana", "grape", "apple",
                 "strawberry", "grape" };
 
             Console.WriteLine("Name a type of fruit to find its index, or indices.");
@@ -123,36 +123,31 @@ namespace IterationAssignment
 
             // ============= PART SIX ================
 
-            // 1.Create a list of strings that has at least two identical strings in the list.
-            List<string> petsList = new List<string>() { "cat", "dog", "cat", "snake", "hedgehog", 
-                "dog" };
-            List<int> petCount = new List<int>() { 1 };//new list to add int for counter
-            
-            Console.WriteLine("Type in a pet type to find if it is on list.");
-            string userPet = Console.ReadLine();//asking user to input text to find occurences of pet type
-            // 2.Create a foreach loop that evaluates each item in the list.
+            List<string> petsList = new List<string>() { "cat", "dog", "cat", "snake", "hedgehog", "dog" };
+
+            List<int> petCount = new List<int>() { };
+
+            Console.WriteLine("Type in a pet type to find if it is on list: ");
+            string userPet = Console.ReadLine();
             foreach (string pet in petsList)
             {
-                int p = 1;
                 if (pet == userPet)
                 {
-                    petCount.Add(p);// adds int to list to be used as counter
+                    petCount.Add(1);
                 }
-                
             }
-            // 3. Displays a message
-            //    showing the string and whether or not it has already appeared in the list.
-            foreach (int p in petCount)
+
+            foreach (int num in petCount)
             {
-                int count = petCount.Count-1;// list count to be used as counter
+                int count = petCount.Count;
                 if (count >= 1)// is on list
                 {
-                    Console.WriteLine("The type: " + userPet + " occurs " + count + " times.");
+                    Console.WriteLine($"The type: {userPet} occurs {count} times.");
                     break;
                 }
                 if (count == 0)// not on list
                 {
-                    Console.WriteLine(userPet + " occurs " + count + " times.");
+                    Console.WriteLine($"{userPet} occurs {count} times.");
                 }
             }
             Console.ReadLine();
