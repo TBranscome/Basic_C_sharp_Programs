@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\bin\Debug\ParsingEnumsSubmission.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\ParsingEnumsSubmission\obj\Debug\ParsingEnumsSubmission.pdb
