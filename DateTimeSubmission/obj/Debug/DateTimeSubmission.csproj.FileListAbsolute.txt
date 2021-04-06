@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\bin\Debug\DateTimeSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\bin\Debug\DateTimeSubmission.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\obj\Debug\DateTimeSubmission.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\obj\Debug\DateTimeSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\obj\Debug\DateTimeSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\DateTimeSubmission\obj\Debug\DateTimeSubmission.pdb
