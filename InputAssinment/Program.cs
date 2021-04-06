@@ -27,7 +27,7 @@ namespace InputAssinment
                     {
                         file.WriteLine(userInput);
                     }
-                    Console.WriteLine($"The input: {userInput}, has been logged");
+                    Console.WriteLine($"The input: \"{userInput}\", has been logged");
                     Console.WriteLine("More inputs? Please answer yes or no.");
                     string answer = Console.ReadLine().ToLower();
                     if (answer == "no")
