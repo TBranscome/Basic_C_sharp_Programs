@@ -1,0 +1,7 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\bin\Debug\InputAssinment.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\bin\Debug\InputAssinment.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\bin\Debug\InputAssinment.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\obj\Debug\InputAssinment.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\obj\Debug\InputAssinment.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\obj\Debug\InputAssinment.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\InputAssinment\obj\Debug\InputAssinment.pdb
