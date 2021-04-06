@@ -1,0 +1,6 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe.config
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\bin\Debug\ConstructorSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\bin\Debug\ConstructorSubmission.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\obj\Debug\ConstructorSubmission.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\obj\Debug\ConstructorSubmission.exe
+C:\Users\tbran\Desktop\Basic_C#_Programs\ConstructorSubmission\obj\Debug\ConstructorSubmission.pdb
