@@ -1,0 +1,5 @@
+C:\Users\tbran\Desktop\Basic_C#_Programs\Casino\bin\Debug\Casino.dll
+C:\Users\tbran\Desktop\Basic_C#_Programs\Casino\bin\Debug\Casino.pdb
+C:\Users\tbran\Desktop\Basic_C#_Programs\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\Basic_C#_Programs\Casino\obj\Debug\Casino.dll
+C:\Users\tbran\Desktop\Basic_C#_Programs\Casino\obj\Debug\Casino.pdb
