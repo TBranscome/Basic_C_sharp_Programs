@@ -26,5 +26,61 @@ namespace CarInsurance.Models
         public int SpeedingTickets { get; set; }
         public bool CoverageType { get; set; }
         public decimal Quote { get; set; }
+
+        public decimal determineInsuranceQuote()
+        {
+            decimal insuranceQuote = 50.00M;
+
+            bool is18OrUnder = (this.determineAge() <= 18);
+            bool is19To25 = (this.determineAge() <= 25 && this.determineAge() > 18);
+
+            if (is18OrUnder)
+                insuranceQuote += 100.00M;
+            else if (is19To25)
+                insuranceQuote += 50.00M;
+            else 
+                insuranceQuote += 25.00M;
+
+            bool carBefore2000 = (this.CarYear < 2000);
+            bool carAfter2015 = (this.CarYear > 2015);
+
+            if (carBefore2000)
+                insuranceQuote += 25.00M;
+            else if (carAfter2015)
+                insuranceQuote += 25.00M;
+
+            if (CarMake == "Porsche")
+                insuranceQuote += 25.00M;
+
+            if (CarMake == "Porsche" && CarModel == "911 Carrera")
+                insuranceQuote += 25.00M;
+
+            if (SpeedingTickets >= 1)
+                insuranceQuote += (10 * SpeedingTickets);
+
+            if (DUI == true)
+                insuranceQuote *= 1.25m;
+
+            if (CoverageType == true)
+                insuranceQuote *= 1.5M;
+
+            
+
+            return insuranceQuote;
+
+        }
+
+        public int determineAge()
+        {
+            // Save today's date.
+            var today = DateTime.Today;
+
+            // Calculate the age.
+            var age = today.Year - this.DateOfBirth.Year;
+
+            // Go back to the year in which the person was born in case of a leap year
+            if (this.DateOfBirth.Date > today.AddYears(-age)) age--;
+            return age;
+        }
     }
 }

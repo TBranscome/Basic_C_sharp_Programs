@@ -19,7 +19,6 @@ namespace CarInsurance.Controllers
         {
             return View(db.Insurees.ToList());
         }
-
         // GET: Insuree/Details/5
         public ActionResult Details(int? id)
         {
@@ -34,6 +33,7 @@ namespace CarInsurance.Controllers
             }
             return View(insuree);
         }
+
 
         // GET: Insuree/Create
         public ActionResult Create()
@@ -50,14 +50,16 @@ namespace CarInsurance.Controllers
         {
             if (ModelState.IsValid)
             {
+                insuree.Quote = insuree.determineInsuranceQuote();
+
                 db.Insurees.Add(insuree);
                 db.SaveChanges();
+                
                 return RedirectToAction("Index");
+                
             }
-
             return View(insuree);
         }
-
         // GET: Insuree/Edit/5
         public ActionResult Edit(int? id)
         {
@@ -123,5 +125,7 @@ namespace CarInsurance.Controllers
             }
             base.Dispose(disposing);
         }
+
+        
     }
 }
