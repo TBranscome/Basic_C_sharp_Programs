@@ -1,0 +1,12 @@
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFrameworkCodeFirstApp.exe.config
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFrameworkCodeFirstApp.exe
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFrameworkCodeFirstApp.pdb
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFramework.dll
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFramework.xml
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\obj\Debug\EntityFrameworkCodeFirstApp.csprojAssemblyReference.cache
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\obj\Debug\EntityFrameworkCodeFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\obj\Debug\EntityFrameworkCodeFirstApp.csproj.CopyComplete
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\obj\Debug\EntityFrameworkCodeFirstApp.exe
+C:\Users\tbran\Desktop\EntityFrameworkCodeFirstApp\obj\Debug\EntityFrameworkCodeFirstApp.pdb
